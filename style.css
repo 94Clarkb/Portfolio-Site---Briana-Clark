@@ -43,3 +43,20 @@ h2 {
     font-weight: 600;
     font-style: normal;
 }
+a {
+    color: #b2bbdf;
+    text-decoration: none;
+}
+a:active {
+    color: #f4f6ff;
+    text-decoration: none;
+}
+a:hover,
+a:focus {
+    color: #5d6bab;
+    text-decoration: underline;
+}
+a:visited {
+    color: #3A4471;
+    text-decoration: none;
+}
