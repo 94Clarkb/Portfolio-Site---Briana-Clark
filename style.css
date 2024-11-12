@@ -3,3 +3,29 @@
 - #F4F6FF
 - #FFFFFF
 */
+/*Font link for Abril Fatface when I want to link it to a class:
+-- .abril-fatface-regular {
+  font-family: "Abril Fatface", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+  Font link for Quicksand Semi-bold:
+  -- // <uniquifier>: Use a unique and descriptive class name
+
+.quicksand-<uniquifier> {
+  font-family: "Quicksand", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+}
+  Font link for Quicksand Regular:
+  -- // <uniquifier>: Use a unique and descriptive class name
+
+.quicksand-<uniquifier> {
+  font-family: "Quicksand", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+-- */
+
