@@ -83,3 +83,6 @@ button {
 button:hover {
     background-color: #45667B;
 }
+img {
+    width: 100%;
+}
