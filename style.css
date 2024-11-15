@@ -60,3 +60,12 @@ a:visited {
     color: #3A4471;
     text-decoration: none;
 }
+button {
+    background-color: #243642;
+    color: #FFFFFF;
+    font-size: 16px;
+    padding: 10px 20px;
+}
+button:hover {
+    background-color: #45667B;
+}
