@@ -43,6 +43,14 @@ h2 {
     font-optical-sizing: auto;
     font-weight: 600;
     font-style: normal;
+    font-size: 32px;
+}
+p {
+    font-family: "Quicksand", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
 }
 a {
     color: #b2bbdf;
@@ -63,9 +71,13 @@ a:visited {
 }
 button {
     background-color: #243642;
+    padding: 10px 20px;
+    font-family: "Quicksand", sans-serif;
+    font-weight: 400;
+    font-style: normal;
     color: #FFFFFF;
     font-size: 16px;
-    padding: 10px 20px;
+
 }
 button:hover {
     background-color: #45667B;
