@@ -51,16 +51,19 @@ nav > ul > li > a {
     padding: 0 15px;
     font-weight: 600;
     color: #3a4471;
+    text-decoration: none;
 }
 nav > ul > li > a:hover {
     padding: 0 15px;
     font-weight: 600;
     color: #5d6bab;
+    text-decoration: none;
 }
 nav > ul > li > a:active {
     padding: 0 15px;
     font-weight: 600;
     color: #5d6bab;
+    text-decoration: none;
 }
 body {
     font-family: "Quicksand", sans-serif;
