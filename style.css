@@ -36,6 +36,10 @@ header {
     padding: 10px;
     margin: 10px;
 }
+.logo {
+    text-align: center;
+    max-width: 250px;
+}
 body {
     font-family: "Quicksand", sans-serif;
     font-style: normal;
