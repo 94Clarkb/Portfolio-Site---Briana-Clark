@@ -79,6 +79,9 @@ nav > ul > li > a:active {
 #hero-section-index p {
     text-align: center;
 }
+#hero-section-index {
+    background-color: #f4f6ff;
+}
 /*Main Section*/
 .row {
     margin: 25px 0;
