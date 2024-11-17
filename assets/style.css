@@ -43,6 +43,10 @@ header {
 .logo {
     max-width: 250px;
 }
+nav {
+    display: inline-block;
+    width: 100%;
+}
 nav > ul {
     list-style-type: none;
     padding: 0;
@@ -144,7 +148,6 @@ button {
     font-style: normal;
     color: #FFFFFF;
     font-size: 16px;
-
 }
 button:hover {
     background-color: #45667B;
