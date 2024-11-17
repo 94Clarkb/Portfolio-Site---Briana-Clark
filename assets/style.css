@@ -70,6 +70,9 @@ nav > ul > li > a:active {
 }
 /*Hero Section*/
 /*Main Section*/
+.row {
+    margin: 25px 0;
+}
 body {
     font-family: "Quicksand", sans-serif;
     font-style: normal;
