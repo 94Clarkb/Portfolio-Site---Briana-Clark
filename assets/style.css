@@ -50,17 +50,6 @@ nav > ul > li {
 nav > ul > li > a {
     padding: 0 15px;
     font-weight: 600;
-    text-decoration: none;
-    color: #3A4471;
-}
-nav > ul > li > a:hover, a:focus {
-    color: #5d6bab;
-}
-nav > ul > li > a:active {
-    color: #5d6bab;
-}
-nav > ul > li > a:visited {
-    color: #3a4471;
 }
 .nav-item {
     color: #45667B
