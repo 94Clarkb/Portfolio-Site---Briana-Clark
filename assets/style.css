@@ -75,14 +75,13 @@ nav > ul > li > a:active {
 /*Hero Section*/
 #hero-section-index h1 {
     text-align: center;
-    margin: 0;
-    padding: 0.67em 0;
 }
 #hero-section-index p {
     text-align: center;
 }
 #hero-section-index {
     background-color: #f4f6ff;
+    padding: 20px 0;
 }
 /*Main Section*/
 .row {
