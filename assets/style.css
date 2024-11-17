@@ -75,6 +75,8 @@ nav > ul > li > a:active {
 /*Hero Section*/
 #hero-section-index h1 {
     text-align: center;
+    margin: 0;
+    padding: 0.67em 0;
 }
 #hero-section-index p {
     text-align: center;
@@ -93,6 +95,7 @@ nav > ul > li > a:active {
 body {
     font-family: "Quicksand", sans-serif;
     font-style: normal;
+    margin: 0;
 }
 h1 {
     font-family: "Abril Fatface", serif;
