@@ -52,10 +52,25 @@ nav > ul > li > a {
     font-weight: 600;
     color: #3a4471;
 }
+nav > ul > li > a:active {
+    padding: 0 15px;
+    font-weight: 600;
+    color: #5d6bab;
+}
 nav > ul > li > a:hover {
     padding: 0 15px;
     font-weight: 600;
     color: #5d6bab;
+}
+nav > ul > li > a:focus {
+    padding: 0 15px;
+    font-weight: 600;
+    color: #5d6bab;
+}
+nav > ul > li > a:visited {
+    padding: 0 15px;
+    font-weight: 600;
+    color: #3a4771;
 }
 body {
     font-family: "Quicksand", sans-serif;
