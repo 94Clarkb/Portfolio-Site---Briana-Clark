@@ -52,6 +52,11 @@ nav > ul > li > a {
     font-weight: 600;
     color: #3a4471;
 }
+nav > ul > li > a:hover {
+    padding: 0 15px;
+    font-weight: 600;
+    color: #5d6bab;
+}
 body {
     font-family: "Quicksand", sans-serif;
     font-style: normal;
