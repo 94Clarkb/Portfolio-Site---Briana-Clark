@@ -50,9 +50,7 @@ nav > ul > li {
 nav > ul > li > a {
     padding: 0 15px;
     font-weight: 600;
-}
-#nav-menu {
-    color: #FFFFFF;
+    color: #3a4471;
 }
 body {
     font-family: "Quicksand", sans-serif;
