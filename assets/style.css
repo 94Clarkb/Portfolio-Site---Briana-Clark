@@ -52,12 +52,12 @@ nav > ul > li > a {
     font-weight: 600;
     color: #3a4471;
 }
-nav > ul > li > a:active {
+nav > ul > li > a:hover {
     padding: 0 15px;
     font-weight: 600;
     color: #5d6bab;
 }
-nav > ul > li > a:hover {
+nav > ul > li > a:active {
     padding: 0 15px;
     font-weight: 600;
     color: #5d6bab;
