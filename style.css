@@ -33,6 +33,8 @@ font-style: normal;
 }
 header {
     background-color:#f4f6ff;
+    padding: 10px;
+    margin: 10px;
 }
 body {
     font-family: "Quicksand", sans-serif;
