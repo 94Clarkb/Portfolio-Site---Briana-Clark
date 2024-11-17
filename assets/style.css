@@ -82,6 +82,8 @@ nav > ul > li > a:active {
 #hero-section-index {
     background-color: #f4f6ff;
     padding: 20px 0;
+    display: inline-block;
+    width: 100%;
 }
 /*Main Section*/
 .row {
