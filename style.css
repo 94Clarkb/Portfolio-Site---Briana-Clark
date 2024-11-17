@@ -47,6 +47,9 @@ nav > ul {
 nav > ul > li {
     display: inline-block;
 }
+nav > ul > li > a {
+    padding: 0 15px;
+}
 body {
     font-family: "Quicksand", sans-serif;
     font-style: normal;
