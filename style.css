@@ -36,7 +36,6 @@ header {
     text-align: center;
     padding: 10px;
     margin: 10px;
-    text-decoration: none;
 }
 .logo {
     max-width: 250px;
@@ -51,6 +50,7 @@ nav > ul > li {
 nav > ul > li > a {
     padding: 0 15px;
     font-weight: 600;
+    text-decoration: none;
 }
 body {
     font-family: "Quicksand", sans-serif;
