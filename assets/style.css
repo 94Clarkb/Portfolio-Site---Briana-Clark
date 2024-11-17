@@ -76,6 +76,10 @@ nav > ul > li > a:active {
 .row {
     margin: 25px 0;
 }
+#my-work .row {
+    padding-bottom: 25px;
+    border-bottom: 1px solid #5d6bab;
+}
 body {
     font-family: "Quicksand", sans-serif;
     font-style: normal;
