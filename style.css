@@ -31,6 +31,9 @@ font-style: normal;
 * {
     box-sizing: border-box;
 }
+header {
+    background-color:#f4f6ff;
+}
 body {
     font-family: "Quicksand", sans-serif;
     font-style: normal;
