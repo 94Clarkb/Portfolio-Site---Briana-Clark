@@ -97,12 +97,14 @@ body {
     font-family: "Quicksand", sans-serif;
     font-style: normal;
     margin: 0;
+    color: #243642;
 }
 h1 {
     font-family: "Abril Fatface", serif;
     font-weight: 400;
     font-style: normal;
     font-size: 48px;
+    color: #243642;
 }
 h2 {
     font-family: "Quicksand", sans-serif;
@@ -110,6 +112,7 @@ h2 {
     font-weight: 600;
     font-style: normal;
     font-size: 32px;
+    color: #243642;
 }
 h3 {
     font-family: "Quicksand", sans-serif;
@@ -117,6 +120,7 @@ h3 {
     font-weight: 400;
     font-style: normal;
     font-size: 28px;
+    color: #243642;
 }
 h4 {
     font-family: "Quicksand", sans-serif;
@@ -124,6 +128,7 @@ h4 {
     font-weight: 400;
     font-style: normal;
     font-size: 24px;
+    color: #243642;
 }
 p {
     font-family: "Quicksand", sans-serif;
@@ -132,6 +137,7 @@ p {
     font-style: normal;
     font-size: 20px;
     line-height: 150%;
+    color: #243642;
 }
 a {
     color: #b2bbdf;
@@ -154,7 +160,7 @@ button {
     background-color: #243642;
     padding: 10px 20px;
     font-family: "Quicksand", sans-serif;
-    font-weight: 400;
+    font-weight: 600;
     font-style: normal;
     color: #FFFFFF;
     font-size: 16px;
@@ -181,3 +187,24 @@ img {
     line-height: 150%;
 }
 /*Footer Section*/
+.social-icons {
+    text-align: center;
+}
+.social-icons > ul {
+    list-style-type: none;
+    padding: 0;
+}
+.social-icons > ul > li {
+    display: inline-block;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.social-icons > ul > li > a {
+    display: inline-block;
+    width: 30px;
+    text-align: center;
+    margin: 0 5px;
+}
+svg > .social-in {
+    color:#243642;
+}
