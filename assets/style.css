@@ -205,6 +205,6 @@ img {
     text-align: center;
     margin: 0 5px;
 }
-svg > .social-in {
+.social-icons > ul > li > a > svg > .social-in {
     color:#243642;
 }
