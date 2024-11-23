@@ -35,15 +35,6 @@ font-style: normal;
 .container {
     padding: 0 15px;
 }
-@media only screen and (min-width: 640px) {
-
-}
-@media only screen and (min-width:1024px) {
-
-}
-@media only screen and (min-width: 1440px) {
-    
-}
 /*Header Section*/
 header {
     background-color:#f4f6ff;
@@ -224,4 +215,14 @@ img {
 }
 .social-icons > ul > li > a > svg > .social-in {
     color:#243642;
+}
+/*media queries*/
+@media only screen and (min-width: 640px) {
+
+}
+@media only screen and (min-width:1024px) {
+
+}
+@media only screen and (min-width: 1440px) {
+    
 }
