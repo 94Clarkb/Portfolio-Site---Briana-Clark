@@ -85,6 +85,9 @@ nav > ul > li > a:active {
     display: inline-block;
     width: 100%;
 }
+.illustration-placeholder {
+    width: 100%;
+}
 /*Main Section*/
 .row {
     margin: 25px 0;
