@@ -229,8 +229,6 @@ nav {
 }
 .col-md-6 {
     width: 50%;
-}
-[class*="col-"] {
     float: left;
 }
 }
