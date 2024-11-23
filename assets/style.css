@@ -30,6 +30,7 @@ font-style: normal;
 -- */
 * {
     box-sizing: border-box;
+    background-color: #f4f6ff;
 }
 .container {
     padding: 0 15px;
@@ -73,6 +74,9 @@ nav > ul > li > a:active {
     text-decoration: none;
 }
 /*Hero Section*/
+#hero-section-index {
+    text-align: center;
+}
 #hero-section-index h1 {
     text-align: center;
 }
