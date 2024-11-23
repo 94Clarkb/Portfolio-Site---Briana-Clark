@@ -87,6 +87,7 @@ nav > ul > li > a:active {
 }
 .illustration-placeholder {
     width: 35%;
+    text-align: center;
 }
 /*Main Section*/
 .row {
