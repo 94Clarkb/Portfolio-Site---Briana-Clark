@@ -183,6 +183,11 @@ button:hover {
     background-color: #45667B;
     opacity: 0.8;
 }
+#about-picture {
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+}
 img {
     width: 100%;
 }
