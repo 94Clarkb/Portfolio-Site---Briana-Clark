@@ -188,6 +188,17 @@ button:hover {
     max-width: 100%;
     height: auto;
 }
+@keyframes color-change {
+    from {fill: #edc655;}
+    to {fill: #f76414;}
+}
+.sun {
+    animation-duration: 4s;
+    animation-name: color-change;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    animation-timing-function: linear;
+}
 img {
     width: 100%;
 }
