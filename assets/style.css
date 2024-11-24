@@ -227,6 +227,10 @@ nav {
     float: right;
     margin-top: 4px;
 }
+[class*="col-"] {
+    float: left;
+    padding: 10px;
+}
 .col-md-6 {
     width: 50%;
     float: left;
