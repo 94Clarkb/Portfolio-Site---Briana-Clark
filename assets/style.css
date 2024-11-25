@@ -72,9 +72,6 @@ nav > ul > li > a:active {
 .navtoggle, .navtoggle.responsive {
     position: relative;
 }
-.navtoggle.responsive li {
-    display: block;
-}
 .navtoggle li .icon {
     position: absolute;
     right: 0;
@@ -82,6 +79,16 @@ nav > ul > li > a:active {
     font-size: 20px;
     color:#243642;
     padding-right: 0;
+}
+.navtoggle.responsive li {
+    display: block;
+    padding: 10px 0;
+}
+.navtoggle.responsive nav {
+    padding: 24px 0 0;
+}
+.navtoggle.responsive li:last-child {
+    padding: 0 0 10px;
 }
 /*Hero Section*/
 #hero-section-index {
