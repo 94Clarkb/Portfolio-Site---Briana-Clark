@@ -72,6 +72,9 @@ nav > ul > li > a:active {
 .navtoggle li:not(:last-child) {
     display: none;
 }
+.navtoggle, .navtoggle.responsive {
+    position: relative;
+}
 /*Hero Section*/
 #hero-section-index {
     text-align: center;
@@ -274,6 +277,9 @@ nav > ul > li {
 .navtoggle li:not(:last-child) {
     display: inline-block;
 }
+.navtoggle li:last-child {
+    display: none;
+}
 [class*="col-"] {
     float: left;
     padding: 10px;
@@ -298,9 +304,7 @@ nav {
     float: right;
     margin-top: 4px;
 }
-.navtoggle li:last-child {
-    display: none;
-}
+
 [class*="col-"] {
     float: left;
     padding: 10px
