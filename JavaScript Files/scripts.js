@@ -8,3 +8,4 @@ function menuToggle() {
     }
     
 }
+const ScrollReveal = require('scrollreveal')
