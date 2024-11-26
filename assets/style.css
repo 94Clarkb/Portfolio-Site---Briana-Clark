@@ -119,6 +119,11 @@ main {
 }
 .deliverable-links {
     font-size: 20px;
+    line-height: 150%;
+}
+.retro-answer {
+    font-size: 20px;
+    line-height: 150%;
 }
 #my-work .row {
     padding-bottom: 25px;
