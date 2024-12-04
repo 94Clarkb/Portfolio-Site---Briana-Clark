@@ -186,6 +186,26 @@ a:visited {
     color: #3A4471;
     text-decoration: none;
 }
+.testLink {
+    background-color: #243642;
+    font-family: "Quicksand", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 30px;
+}
+.testLink:visited {
+    color:#FFFFFF;
+}
+.testLink:hover {
+    background-color: #45667B;
+    color: white;
+    text-decoration: none;
+}
 button {
     background-color: #243642;
     padding: 10px 20px;
