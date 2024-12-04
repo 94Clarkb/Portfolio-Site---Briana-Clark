@@ -201,9 +201,19 @@ button {
     transition-duration: 0.2s;
     transition-property: opacity;
 }
+button > .view_caseStudy {
+    background-color: #243642;
+    color: #ffffff;
+    text-decoration: none;
+}
 button:hover {
     background-color: #45667B;
     opacity: 0.8;
+}
+button:hover > .view_caseStudy {
+    background-color: #45667B;
+    text-decoration: none;
+    color: #ffffff;
 }
 #about-picture {
     width: 100%;
