@@ -47,17 +47,20 @@ nav > ul {
     list-style-type: none;
     padding: 0;
     margin: 0;
+    font-family: "Abril Fatface", serif; 
 }
 nav > ul > li > a {
+    font-family: "Abril Fatface", serif;
     padding: 0 15px;
-    font-weight: 600;
-    color: #3a4471;
+    font-weight: 400;
+    color: #243642;
+    font-size: 24px;
     text-decoration: none;
 }
 nav > ul > li > a:hover {
     padding: 0 15px;
     font-weight: 600;
-    color: #5d6bab;
+    color: #F26B0F;
     text-decoration: none;
 }
 .navtoggle li:not(:last-child) {
@@ -170,8 +173,9 @@ p {
     color: #243642;
 }
 a {
-    color: #b2bbdf;
+    color: #3D3BF3;
     text-decoration: none;
+    font-weight: 600;
 }
 a:active {
     color: #f4f6ff;
@@ -179,8 +183,8 @@ a:active {
 }
 a:hover,
 a:focus {
-    color: #5d6bab;
-    text-decoration: underline;
+    color: #F26B0F;
+    text-decoration: none;
 }
 a:visited {
     color: #3A4471;
